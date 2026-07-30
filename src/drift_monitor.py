@@ -25,6 +25,12 @@ def load_reference_columns() -> Tuple[List[str], List[str], List[str]]:
     Returns:
         A tuple of (numerical_columns, categorical_columns, all_training_columns).
     """
+    json_path = os.path.join(MODELS_DIR, "preprocessor_meta.json")
+    if os.path.exists(json_path):
+        with open(json_path, "r") as f:
+            meta = json.load(f)
+        return meta["numerical_cols"], meta["categorical_cols"], meta["training_cols"]
+
     if not os.path.exists(PREPROCESSOR_PATH):
         raise FileNotFoundError("Preprocessor file not found. Run train_model.py first.")
         

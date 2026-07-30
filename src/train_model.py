@@ -269,6 +269,19 @@ def main() -> None:
     }
     with open(os.path.join(MODELS_DIR, "preprocessor.pkl"), "wb") as f:
         pickle.dump(preprocessor_meta, f)
+    
+    # Save a JSON version of non-pickle metadata for robust loading
+    json_meta = {
+        "feature_names": feature_names_clean,
+        "numerical_cols": NUMERICAL_COLS,
+        "categorical_cols": CATEGORICAL_COLS,
+        "training_cols": X.columns.tolist(),
+        "tuned_threshold": xgb_threshold,
+        "baseline_threshold": lr_threshold
+    }
+    with open(os.path.join(MODELS_DIR, "preprocessor_meta.json"), "w") as f:
+        json.dump(json_meta, f, indent=4)
+        
     print("\nPreprocessor metadata and tuned threshold saved.")
 
     # Save a small sample of training data for SHAP background in the app

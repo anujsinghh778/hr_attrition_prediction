@@ -1,0 +1,40 @@
+{
+    "gender": {
+        "Female": {
+            "selection_rate": 0.1649659863945578,
+            "tpr": 0.8505747126436781,
+            "fpr": 0.04590818363273453,
+            "count": 588,
+            "flagged": 97
+        },
+        "Male": {
+            "selection_rate": 0.1689342403628118,
+            "tpr": 0.8,
+            "fpr": 0.03961748633879782,
+            "count": 882,
+            "flagged": 149
+        },
+        "disparate_impact_ratio": 0.9765100671140938,
+        "compliant_four_fifths": true,
+        "fpr_difference": 0.006290697293936713
+    },
+    "age": {
+        "Age_40_Plus": {
+            "selection_rate": 0.0842911877394636,
+            "tpr": 0.631578947368421,
+            "fpr": 0.017204301075268817,
+            "count": 522,
+            "flagged": 44
+        },
+        "Age_Under_40": {
+            "selection_rate": 0.21308016877637131,
+            "tpr": 0.8777777777777778,
+            "fpr": 0.057291666666666664,
+            "count": 948,
+            "flagged": 202
+        },
+        "disparate_impact_ratio": 0.3955843860248094,
+        "compliant_four_fifths": false,
+        "fpr_difference": 0.04008736559139785
+    }
+}

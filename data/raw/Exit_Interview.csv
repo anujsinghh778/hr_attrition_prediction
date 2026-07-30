@@ -1,0 +1,238 @@
+EmployeeNumber,ExitReason,RehireEligibility,FinalPerformanceScore,ExitInterviewDate
+1,Work-Life Balance,Yes,3,2025-11-15
+4,Personal Reasons,No,4,2025-08-06
+19,Work-Life Balance,Yes,2,2025-07-03
+27,Lack of Career Growth,Conditional,3,2025-01-05
+31,Compensation & Benefits,Conditional,4,2025-12-12
+33,Compensation & Benefits,Conditional,3,2025-02-14
+42,Career Change,Yes,3,2025-05-24
+45,Retirement,Yes,3,2025-11-09
+47,Work-Life Balance,Conditional,3,2025-02-12
+55,Lack of Career Growth,Yes,3,2025-03-03
+58,Career Change,Conditional,3,2025-01-08
+64,Personal Reasons,Conditional,4,2025-06-28
+65,Relocation,Conditional,1,2025-08-11
+90,Compensation & Benefits,Yes,3,2025-09-05
+118,Compensation & Benefits,Yes,4,2025-12-03
+133,Compensation & Benefits,Conditional,4,2025-05-05
+137,Compensation & Benefits,Yes,3,2025-05-19
+142,Work-Life Balance,Yes,3,2025-11-14
+147,Lack of Career Growth,Yes,3,2025-10-04
+161,Lack of Career Growth,Conditional,2,2025-09-13
+163,Work-Life Balance,No,3,2025-10-25
+165,Compensation & Benefits,Yes,3,2025-02-08
+167,Compensation & Benefits,Yes,3,2025-08-07
+175,Work-Life Balance,No,2,2025-08-14
+179,Workplace Culture,Conditional,4,2025-03-06
+190,Relocation,Yes,4,2025-01-23
+235,Compensation & Benefits,Yes,3,2025-01-25
+243,Workplace Culture,Conditional,3,2025-01-01
+248,Work-Life Balance,No,3,2025-07-02
+261,Career Change,No,3,2025-05-08
+282,Work-Life Balance,No,3,2025-08-19
+283,Compensation & Benefits,Yes,2,2025-07-19
+291,Career Change,Yes,4,2025-06-06
+297,Personal Reasons,Conditional,3,2025-03-07
+299,Personal Reasons,Conditional,4,2025-03-08
+300,Relocation,Conditional,3,2025-10-20
+315,Compensation & Benefits,Conditional,3,2025-01-20
+325,Compensation & Benefits,Yes,3,2025-07-27
+328,Lack of Career Growth,Yes,4,2025-04-06
+331,Lack of Career Growth,No,4,2025-09-01
+342,Compensation & Benefits,No,1,2025-05-27
+355,Workplace Culture,No,1,2025-07-01
+364,Career Change,No,3,2025-04-22
+376,Retirement,Conditional,3,2025-02-10
+392,Compensation & Benefits,Yes,4,2025-05-27
+394,Work-Life Balance,Yes,2,2025-10-01
+401,Lack of Career Growth,Yes,3,2025-06-06
+405,Workplace Culture,Yes,3,2025-04-13
+433,Lack of Career Growth,Yes,4,2025-08-20
+440,Compensation & Benefits,Yes,3,2025-08-15
+445,Personal Reasons,Yes,3,2025-08-05
+454,Work-Life Balance,Yes,3,2025-04-12
+478,Retirement,Yes,3,2025-02-27
+485,Retirement,Yes,3,2025-03-19
+488,Lack of Career Growth,Yes,2,2025-04-04
+492,Personal Reasons,Conditional,4,2025-10-11
+494,Career Change,Yes,3,2025-11-05
+502,Workplace Culture,Yes,4,2025-04-11
+510,Career Change,Yes,4,2025-10-08
+514,Compensation & Benefits,No,3,2025-06-06
+538,Workplace Culture,Yes,3,2025-08-23
+554,Compensation & Benefits,No,4,2025-10-14
+555,Retirement,Yes,3,2025-11-12
+565,Compensation & Benefits,Yes,3,2025-10-13
+566,Compensation & Benefits,Yes,3,2025-08-18
+582,Work-Life Balance,Yes,2,2025-09-01
+584,Compensation & Benefits,No,4,2025-08-28
+587,Relocation,No,3,2025-11-12
+590,Career Change,Conditional,3,2025-12-04
+593,Personal Reasons,Yes,3,2025-04-05
+608,Work-Life Balance,Yes,3,2025-08-05
+614,Compensation & Benefits,No,3,2025-08-10
+622,Career Change,Yes,2,2025-01-28
+631,Retirement,Yes,3,2025-10-09
+647,Work-Life Balance,Yes,3,2025-06-19
+648,Work-Life Balance,Yes,3,2025-08-09
+650,Relocation,Conditional,3,2025-06-11
+667,Career Change,Conditional,4,2025-07-01
+684,Workplace Culture,No,3,2025-05-21
+701,Compensation & Benefits,Yes,3,2025-10-14
+702,Relocation,Yes,4,2025-04-22
+720,Lack of Career Growth,Yes,3,2025-07-25
+723,Lack of Career Growth,Yes,2,2025-01-22
+741,Compensation & Benefits,Yes,1,2025-07-19
+752,Compensation & Benefits,No,3,2025-08-15
+780,Workplace Culture,No,3,2025-05-15
+785,Work-Life Balance,Yes,3,2025-09-21
+787,Work-Life Balance,Conditional,3,2025-09-10
+796,Personal Reasons,No,2,2025-04-25
+811,Lack of Career Growth,Yes,1,2025-05-26
+816,Compensation & Benefits,No,3,2025-09-03
+819,Work-Life Balance,Yes,3,2025-04-25
+825,Work-Life Balance,Yes,3,2025-10-11
+828,Work-Life Balance,Yes,3,2025-06-02
+840,Relocation,No,4,2025-07-18
+842,Lack of Career Growth,Yes,3,2025-11-02
+848,Work-Life Balance,Yes,3,2025-11-17
+881,Lack of Career Growth,Yes,3,2025-11-27
+896,Career Change,Yes,3,2025-12-27
+911,Compensation & Benefits,Conditional,3,2025-03-22
+918,Career Change,No,4,2025-08-25
+922,Lack of Career Growth,Yes,4,2025-07-20
+923,Compensation & Benefits,Yes,2,2025-06-21
+926,Work-Life Balance,Yes,4,2025-08-01
+927,Retirement,Yes,3,2025-01-11
+932,Compensation & Benefits,Yes,3,2025-06-26
+952,Workplace Culture,Yes,3,2025-12-18
+959,Work-Life Balance,Yes,4,2025-05-17
+960,Compensation & Benefits,No,3,2025-07-17
+967,Career Change,No,3,2025-04-09
+970,Workplace Culture,Yes,3,2025-01-20
+977,Compensation & Benefits,Yes,3,2025-06-22
+986,Personal Reasons,No,2,2025-12-08
+991,Relocation,Yes,2,2025-01-07
+994,Work-Life Balance,Conditional,2,2025-01-13
+1004,Relocation,No,2,2025-07-19
+1010,Relocation,Yes,2,2025-11-24
+1016,Compensation & Benefits,Yes,3,2025-03-17
+1017,Retirement,No,2,2025-08-19
+1033,Work-Life Balance,Yes,3,2025-02-01
+1037,Retirement,Yes,4,2025-03-15
+1038,Retirement,Conditional,3,2025-02-02
+1042,Compensation & Benefits,Yes,3,2025-06-28
+1052,Compensation & Benefits,Yes,2,2025-01-18
+1053,Compensation & Benefits,No,2,2025-06-19
+1077,Workplace Culture,Yes,1,2025-04-01
+1079,Relocation,Yes,2,2025-08-23
+1081,Relocation,Conditional,3,2025-07-03
+1082,Career Change,Yes,2,2025-10-10
+1098,Work-Life Balance,Conditional,2,2025-03-14
+1100,Work-Life Balance,Conditional,2,2025-02-28
+1101,Workplace Culture,Yes,3,2025-01-23
+1106,Compensation & Benefits,Yes,3,2025-07-28
+1107,Compensation & Benefits,Yes,3,2025-02-07
+1108,Retirement,Yes,3,2025-08-01
+1111,Compensation & Benefits,Yes,3,2025-09-23
+1113,Work-Life Balance,No,1,2025-03-24
+1127,Lack of Career Growth,Yes,3,2025-07-27
+1156,Compensation & Benefits,Yes,3,2025-08-22
+1157,Personal Reasons,Conditional,2,2025-09-15
+1160,Personal Reasons,Yes,4,2025-05-03
+1165,Workplace Culture,Conditional,4,2025-03-01
+1167,Lack of Career Growth,Yes,2,2025-12-15
+1175,Compensation & Benefits,Yes,3,2025-08-02
+1188,Workplace Culture,No,3,2025-03-24
+1200,Career Change,No,3,2025-08-14
+1203,Work-Life Balance,Conditional,2,2025-11-16
+1210,Workplace Culture,No,3,2025-04-20
+1219,Career Change,Conditional,3,2025-05-22
+1248,Compensation & Benefits,Yes,3,2025-05-14
+1273,Retirement,Yes,3,2025-07-16
+1277,Workplace Culture,No,3,2025-02-07
+1279,Compensation & Benefits,Conditional,3,2025-10-07
+1295,Workplace Culture,Conditional,3,2025-01-23
+1299,Personal Reasons,Yes,1,2025-05-19
+1309,Compensation & Benefits,Yes,3,2025-03-04
+1310,Work-Life Balance,No,3,2025-12-18
+1318,Relocation,Yes,4,2025-02-01
+1319,Lack of Career Growth,Conditional,3,2025-05-20
+1331,Work-Life Balance,Conditional,3,2025-11-10
+1333,Workplace Culture,Yes,2,2025-02-03
+1360,Work-Life Balance,No,3,2025-07-23
+1372,Work-Life Balance,No,3,2025-12-20
+1379,Workplace Culture,Yes,3,2025-05-05
+1380,Compensation & Benefits,Conditional,3,2025-06-09
+1389,Relocation,Yes,3,2025-02-21
+1405,Workplace Culture,Conditional,1,2025-12-03
+1420,Workplace Culture,Yes,3,2025-04-26
+1421,Career Change,Conditional,3,2025-06-12
+1427,Lack of Career Growth,Yes,3,2025-08-17
+1433,Lack of Career Growth,Yes,2,2025-10-24
+1439,Career Change,Conditional,4,2025-11-14
+1457,Workplace Culture,Yes,3,2025-07-17
+1458,Compensation & Benefits,Yes,3,2025-02-19
+1459,Relocation,Conditional,3,2025-01-14
+1464,Compensation & Benefits,Conditional,3,2025-09-08
+1467,Lack of Career Growth,Yes,2,2025-02-13
+1486,Workplace Culture,No,3,2025-09-07
+1487,Personal Reasons,Yes,3,2025-09-22
+1489,Workplace Culture,Yes,3,2025-06-11
+1494,Compensation & Benefits,Yes,3,2025-04-26
+1504,Compensation & Benefits,No,2,2025-10-13
+1522,Retirement,No,3,2025-02-23
+1534,Retirement,No,3,2025-05-11
+1537,Lack of Career Growth,No,3,2025-06-18
+1562,Work-Life Balance,Yes,3,2025-05-10
+1569,Work-Life Balance,Yes,3,2025-04-09
+1572,Work-Life Balance,Yes,4,2025-06-02
+1573,Work-Life Balance,Yes,3,2025-01-05
+1604,Compensation & Benefits,Yes,3,2025-09-06
+1624,Compensation & Benefits,Conditional,2,2025-10-12
+1639,Retirement,Yes,2,2025-07-21
+1645,Retirement,Yes,3,2025-10-22
+1649,Work-Life Balance,Yes,2,2025-05-27
+1667,Lack of Career Growth,No,2,2025-09-06
+1684,Compensation & Benefits,No,3,2025-11-08
+1691,Work-Life Balance,Yes,2,2025-02-12
+1692,Retirement,Yes,4,2025-09-21
+1702,Retirement,No,2,2025-07-10
+1714,Relocation,Yes,3,2025-01-26
+1716,Work-Life Balance,Conditional,3,2025-05-28
+1733,Career Change,No,4,2025-10-14
+1734,Compensation & Benefits,Yes,2,2025-02-28
+1747,Retirement,Yes,3,2025-06-11
+1752,Lack of Career Growth,Conditional,4,2025-01-19
+1758,Career Change,Yes,4,2025-05-04
+1761,Compensation & Benefits,Yes,3,2025-03-26
+1767,Work-Life Balance,Conditional,3,2025-05-11
+1780,Career Change,Conditional,2,2025-08-11
+1783,Compensation & Benefits,Conditional,3,2025-04-17
+1792,Work-Life Balance,No,4,2025-11-07
+1797,Work-Life Balance,Yes,3,2025-08-03
+1807,Relocation,Yes,3,2025-06-02
+1809,Workplace Culture,No,3,2025-07-15
+1818,Work-Life Balance,Yes,3,2025-08-22
+1821,Compensation & Benefits,Yes,2,2025-06-05
+1842,Compensation & Benefits,Conditional,3,2025-08-01
+1844,Work-Life Balance,Yes,3,2025-10-04
+1862,Work-Life Balance,Yes,3,2025-04-19
+1868,Relocation,Yes,3,2025-03-20
+1869,Relocation,Yes,2,2025-11-17
+1876,Lack of Career Growth,Yes,3,2025-11-13
+1878,Compensation & Benefits,Yes,3,2025-11-02
+1905,Workplace Culture,Yes,3,2025-09-26
+1907,Compensation & Benefits,No,2,2025-02-21
+1928,Compensation & Benefits,No,3,2025-09-09
+1933,Personal Reasons,Yes,3,2025-08-17
+1939,Workplace Culture,Conditional,2,2025-01-25
+1944,Retirement,Yes,3,2025-11-08
+1960,Lack of Career Growth,Yes,2,2025-10-25
+1967,Relocation,Conditional,2,2025-07-03
+1968,Work-Life Balance,Yes,4,2025-03-18
+2023,Lack of Career Growth,Conditional,3,2025-05-12
+2027,Lack of Career Growth,Yes,3,2025-12-19
+2032,Compensation & Benefits,Conditional,3,2025-06-02
+2044,Relocation,Yes,3,2025-12-19
+2055,Lack of Career Growth,Conditional,3,2025-05-12

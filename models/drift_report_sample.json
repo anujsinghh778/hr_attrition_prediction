@@ -1,0 +1,211 @@
+{
+    "drift_detected": false,
+    "drifting_features_percentage": 17.24137931034483,
+    "drifting_features_count": 5,
+    "total_features_checked": 29,
+    "details": {
+        "Age": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.028595744680851062,
+            "p_value": 0.947653919628235,
+            "drift_detected": false
+        },
+        "DailyRate": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.069,
+            "p_value": 0.0899044463375355,
+            "drift_detected": false
+        },
+        "DistanceFromHome": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.19374468085106383,
+            "p_value": 5.560663980381297e-11,
+            "drift_detected": true
+        },
+        "Education": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.024553191489361702,
+            "p_value": 0.9873415541653323,
+            "drift_detected": false
+        },
+        "EnvironmentSatisfaction": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.02597872340425532,
+            "p_value": 0.9773819149278132,
+            "drift_detected": false
+        },
+        "HourlyRate": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.045553191489361704,
+            "p_value": 0.5026134559015817,
+            "drift_detected": false
+        },
+        "JobInvolvement": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.03121276595744681,
+            "p_value": 0.9020452288157853,
+            "drift_detected": false
+        },
+        "JobLevel": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.03459574468085106,
+            "p_value": 0.8223881127836288,
+            "drift_detected": false
+        },
+        "JobSatisfaction": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.08474468085106383,
+            "p_value": 0.018836646460749444,
+            "drift_detected": true
+        },
+        "MonthlyIncome": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.1405531914893617,
+            "p_value": 5.612095036339555e-06,
+            "drift_detected": true
+        },
+        "MonthlyRate": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.051617021276595745,
+            "p_value": 0.3470384253800291,
+            "drift_detected": false
+        },
+        "NumCompaniesWorked": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.01551063829787234,
+            "p_value": 0.9999968689490084,
+            "drift_detected": false
+        },
+        "PercentSalaryHike": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.035659574468085105,
+            "p_value": 0.7936611571867688,
+            "drift_detected": false
+        },
+        "PerformanceRating": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.005531914893617021,
+            "p_value": 1.0,
+            "drift_detected": false
+        },
+        "RelationshipSatisfaction": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.05731914893617021,
+            "p_value": 0.23301262967567044,
+            "drift_detected": false
+        },
+        "StockOptionLevel": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.0574468085106383,
+            "p_value": 0.23082478506902887,
+            "drift_detected": false
+        },
+        "TotalWorkingYears": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.06091489361702128,
+            "p_value": 0.17715195286951077,
+            "drift_detected": false
+        },
+        "TrainingTimesLastYear": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.03297872340425532,
+            "p_value": 0.8629862210740769,
+            "drift_detected": false
+        },
+        "WorkLifeBalance": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.017404255319148937,
+            "p_value": 0.9999461087110333,
+            "drift_detected": false
+        },
+        "YearsAtCompany": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.04538297872340426,
+            "p_value": 0.5074289073438516,
+            "drift_detected": false
+        },
+        "YearsInCurrentRole": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.0381063829787234,
+            "p_value": 0.7233453952217668,
+            "drift_detected": false
+        },
+        "YearsSinceLastPromotion": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.03748936170212766,
+            "p_value": 0.7415021038160969,
+            "drift_detected": false
+        },
+        "YearsWithCurrManager": {
+            "type": "numerical",
+            "test_name": "Kolmogorov-Smirnov",
+            "statistic": 0.04302127659574468,
+            "p_value": 0.5759730137167632,
+            "drift_detected": false
+        },
+        "BusinessTravel": {
+            "type": "categorical",
+            "test_name": "Chi-Square Contingency",
+            "statistic": 0.08309948910152973,
+            "p_value": 0.9593016141267042,
+            "drift_detected": false
+        },
+        "Department": {
+            "type": "categorical",
+            "test_name": "Chi-Square Contingency",
+            "statistic": 4.818634230758462,
+            "p_value": 0.08987664900223491,
+            "drift_detected": false
+        },
+        "EducationField": {
+            "type": "categorical",
+            "test_name": "Chi-Square Contingency",
+            "statistic": 1.6587577976502441,
+            "p_value": 0.894054058296492,
+            "drift_detected": false
+        },
+        "Gender": {
+            "type": "categorical",
+            "test_name": "Chi-Square Contingency",
+            "statistic": 0.00011620257844608408,
+            "p_value": 0.9913991864522801,
+            "drift_detected": false
+        },
+        "MaritalStatus": {
+            "type": "categorical",
+            "test_name": "Chi-Square Contingency",
+            "statistic": 9.602315444353492,
+            "p_value": 0.008220224801474519,
+            "drift_detected": true
+        },
+        "OverTime": {
+            "type": "categorical",
+            "test_name": "Chi-Square Contingency",
+            "statistic": 139.35213665957662,
+            "p_value": 3.68883092979978e-32,
+            "drift_detected": true
+        }
+    }
+}

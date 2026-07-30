@@ -1,7 +1,7 @@
 # Workforce Stability & Flight Risk Audit
 ## Predictive Retention Intelligence & Financial ROI Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badge_base.svg)](https://share.streamlit.io/anujsinghh778/nirmal-masala-bhandar-webapp-)
+[![Streamlit App](https://static.streamlit.io/badge_base.svg)](https://hrattritionprediction-kgybdm3r8wdvy4ozxhm9cl.streamlit.app/)
 [![Loom Walkthrough](https://img.shields.io/badge/Loom-Video%20Walkthrough-red?logo=loom)](https://www.loom.com/share/placeholder-video-id)
 
 ---

@@ -43,6 +43,7 @@ Using a workforce roughly the size of this dataset, and a 30% success rate on re
 ~34 additional employees retained who otherwise would have left
 gross savings around $510,000
 net savings around $165,000 after intervention costs
+#### 🔲 Confusion Matrices (Holdout Test Set) **XGBoost Classifier (Tuned threshold: 0.268)**```                      Predicted Stay    Predicted LeaveActual Stay (247)          224                23         (False Positives)Actual Leave (47)           24                23         (True Positives / Recall: 48.9%)                            ^                     (False Negatives)``` **Logistic Regression (Tuned threshold: 0.447)**```                      Predicted Stay    Predicted LeaveActual Stay (247)          237                10         (False Positives)Actual Leave (47)           26                21         (True Positives / Recall: 44.7%)                            ^                     (False Negatives)```
 
 These numbers depend heavily on the intervention success rate and replacement cost assumptions, which should be replaced with a client's actual figures before quoting anything.
 

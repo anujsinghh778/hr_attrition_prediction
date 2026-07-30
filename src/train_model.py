@@ -270,6 +270,13 @@ def main() -> None:
     with open(os.path.join(MODELS_DIR, "preprocessor.pkl"), "wb") as f:
         pickle.dump(preprocessor_meta, f)
     
+    # Extract scaling params from StandardScaler
+    scaler = preprocessor.named_transformers_["num"]
+    scaling_params = {
+        col: {"mean": float(m), "scale": float(s)}
+        for col, m, s in zip(NUMERICAL_COLS, scaler.mean_, scaler.scale_)
+    }
+    
     # Save a JSON version of non-pickle metadata for robust loading
     json_meta = {
         "feature_names": feature_names_clean,
@@ -277,7 +284,8 @@ def main() -> None:
         "categorical_cols": CATEGORICAL_COLS,
         "training_cols": X.columns.tolist(),
         "tuned_threshold": xgb_threshold,
-        "baseline_threshold": lr_threshold
+        "baseline_threshold": lr_threshold,
+        "scaling_params": scaling_params
     }
     with open(os.path.join(MODELS_DIR, "preprocessor_meta.json"), "w") as f:
         json.dump(json_meta, f, indent=4)

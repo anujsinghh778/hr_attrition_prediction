@@ -118,5 +118,107 @@
         "role_tenure_ratio"
     ],
     "tuned_threshold": 0.2679496109485626,
-    "baseline_threshold": 0.447363502051395
+    "baseline_threshold": 0.447363502051395,
+    "scaling_params": {
+        "Age": {
+            "mean": 36.99829931972789,
+            "scale": 9.174239138716262
+        },
+        "DailyRate": {
+            "mean": 803.9914965986394,
+            "scale": 401.1687494982014
+        },
+        "DistanceFromHome": {
+            "mean": 9.357993197278912,
+            "scale": 8.176324543923926
+        },
+        "Education": {
+            "mean": 2.9064625850340136,
+            "scale": 1.0275585639473874
+        },
+        "EnvironmentSatisfaction": {
+            "mean": 2.7168367346938775,
+            "scale": 1.0882436985777129
+        },
+        "HourlyRate": {
+            "mean": 65.5,
+            "scale": 20.364660266135107
+        },
+        "JobInvolvement": {
+            "mean": 2.7372448979591835,
+            "scale": 0.7033742009454156
+        },
+        "JobLevel": {
+            "mean": 2.076530612244898,
+            "scale": 1.09152277894419
+        },
+        "JobSatisfaction": {
+            "mean": 2.7193877551020407,
+            "scale": 1.1101717244684475
+        },
+        "MonthlyIncome": {
+            "mean": 6544.024659863946,
+            "scale": 4651.764901542405
+        },
+        "MonthlyRate": {
+            "mean": 14390.239795918367,
+            "scale": 7189.775565502294
+        },
+        "NumCompaniesWorked": {
+            "mean": 2.693027210884354,
+            "scale": 2.4850202272560704
+        },
+        "PercentSalaryHike": {
+            "mean": 15.239795918367347,
+            "scale": 3.6775169028293515
+        },
+        "PerformanceRating": {
+            "mean": 3.1573129251700682,
+            "scale": 0.36409554892157714
+        },
+        "RelationshipSatisfaction": {
+            "mean": 2.7389455782312924,
+            "scale": 1.0867383533946666
+        },
+        "StockOptionLevel": {
+            "mean": 0.7908163265306123,
+            "scale": 0.8454262783438878
+        },
+        "TotalWorkingYears": {
+            "mean": 11.364795918367347,
+            "scale": 7.798073553694327
+        },
+        "TrainingTimesLastYear": {
+            "mean": 2.760204081632653,
+            "scale": 1.255727541718728
+        },
+        "WorkLifeBalance": {
+            "mean": 2.75765306122449,
+            "scale": 0.717807462417934
+        },
+        "YearsAtCompany": {
+            "mean": 7.050170068027211,
+            "scale": 6.0840233486674995
+        },
+        "YearsInCurrentRole": {
+            "mean": 4.2312925170068025,
+            "scale": 3.567985058407453
+        },
+        "YearsSinceLastPromotion": {
+            "mean": 2.182823129251701,
+            "scale": 3.2139805446682237
+        },
+        "YearsWithCurrManager": {
+            "mean": 4.196428571428571,
+            "scale": 3.5632793932013813
+        },
+        "income_ratio_to_joblevel_avg": {
+            "mean": 1.0011424060111636,
+            "scale": 0.23854866132774388
+        },
+        "role_tenure_ratio": {
+            "mean": 0.4825792500957105,
+            "scale": 0.2733125604960652
+        }
+    }
 }
